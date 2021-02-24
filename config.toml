@@ -1,0 +1,52 @@
+baseURL = "https://dwarkeshpatel.com"
+title = "Dwarkesh Patel"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "Your site description"
+  dark = "off"
+  highlight = true
+  body_classes = "avenir bg-near-white"
+
+[menu]
+#  [[menu.main]]
+#    identifier = "posts"
+#    name = "posts"
+#    title = "posts"
+#    url = "/"
+#    weight = 10
+
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "about"
+#    title = "about"
+#    url = "/about/"
+#    weight = 20
+
+  [[menu.main]]
+    identifier = "subsribe"
+    name = "subsribe"
+    title = "subsribe"
+    url = "https://tinyletter.com/dwarkesh"
+    weight = 20
+  
+  [[menu.main]]
+    identifier = "twitter"
+    name = "twitter"
+    title = "twitter"
+    url = "https://twitter.com/dwarkesh_sp"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
