@@ -27,12 +27,7 @@ pygmentsUseClasses = true
 #    url = "/about/"
 #    weight = 20
 
-  [[menu.main]]
-    identifier = "subsribe"
-    name = "subsribe"
-    title = "subsribe"
-    url = "https://tinyletter.com/dwarkesh"
-    weight = 20
+
   
   [[menu.main]]
     identifier = "twitter"
@@ -41,8 +36,16 @@ pygmentsUseClasses = true
     url = "https://twitter.com/dwarkesh_sp"
     weight = 20
 
+  [[menu.main]]
+    identifier = "subsribe"
+    name = "subsribe"
+    title = "subsribe"
+    url = "https://tinyletter.com/dwarkesh"
+    weight = 20
+
 [permalinks]
   posts = "/:title/"
+  drafts = "/draft/:title/"
 
 [markup.goldmark.renderer]
   # Allow HTML in Markdown
