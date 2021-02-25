@@ -7,10 +7,9 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "Your site description"
+  description = "Dwarkesh Patel"
   dark = "off"
   highlight = true
-  body_classes = "avenir bg-near-white"
 
 [menu]
 #  [[menu.main]]
