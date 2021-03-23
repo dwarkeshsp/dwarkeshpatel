@@ -6,4 +6,4 @@ Host of the [Lunar Society Podcast](https://www.youtube.com/c/DwarkeshPatel), wh
 
 Computer science student at UT Austin
 
-[dwarkesh.sanjay.patel@gmail.com](mailto:dwarkesh.sanjay.patel@gmail.com)
+[dwarkesh@dwarkeshpatel.com](mailto:dwarkesh@dwarkeshpatel.com)
