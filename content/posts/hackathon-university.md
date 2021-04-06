@@ -51,23 +51,21 @@ It could end up being the case that a student learns less by doing an average mo
 
 But Toto, I have a feeling we're not in Mediocristan anymore. Maybe every research project Larry Page worked on before PageRank was useless. But fortunes and careers are not created by your average performance. The expected value of your work is dominated by the best thing you ever do - especially in a field like computer science where the reward for your best work can be in the billions of dollars.
 
-Which means you want to optimize for rare but valuable new ideas and skills. You want to increase volatility, even at the risk of doing lots of useless projects. It may be useful to ask how you would optimize for the opposite. For example:
+Which means you want to increase volatility, even at the risk of doing lots of useless projects. It may be useful to ask how you would optimize for the opposite. For example:
 
 Make every student take the same classes and do the same projects. Don't give students the autonomy to implement these projects in creative and unforeseen ways. Teach students about decades old ideas which have been fully explored. Don't spend too much time on new techniques or open questions. 
 
-Unfortunately, I have just described the current system for teaching computer science
-
 ### The Untaught Lesson
 
-One of the most common jokes on the Programmer Humor subreddit is the ridiculous amount of experience which recruiters demand on their job board. I have a suspicion that these requirements are put up in order to eliminate recent college graduates who have not learned the softer skills of analyzing problems and generating your own solutions. 
+One of the most common jokes on the Programmer Humor subreddit is the ridiculous amount of experience which recruiters demand on their job board. I have a suspicion that these requirements are put up in order to eliminate recent college graduates who have not learned the softer skills of analyzing problems and generating their own solutions. 
 
-![Developer experience meme](/static/developer-experience-meme.jpg)
+![Developer experience meme](/developer-experience-meme.jpg)
 
-Here is how a programming assignment in college usually works. The professor tells you which problem you need to solve and how you must solve it, and she gives you an autograder which instantly tells you the exact percentage to which your solution worked.
+Here is how a programming assignment in college usually work. The professor tells you which problem you need to solve and how you must solve it, and she gives you an autograder which tells you instantly whether your solution worked by comparing it to a prebuilt reference solution.
 
-At no point during this assignment is the student asked to identify what problems should be solved in the first place, nor is he asked to weigh the tradeoffs of different solutions. He is not trained to proactively analyze whether his solution works and how it may be optimized. These activities are largely what actual engineers are expected to do everyday, and yet the current system provides you no training for them.
+At no point during this assignment is the student asked to identify what problems should be solved in the first place, nor is he asked to weigh the tradeoffs of different solutions. He is not trained to proactively analyze whether his solution works and how it may be optimized. These activities are largely what actual engineers are expected to do everyday, and yet the current system provides no training for them.
 
-Regular hackathons would provide this training. What is that you do during a hackathon? You find a problem worth solving, you figure out the best solution, you try to implement it, and you deal with unforeseen problems along the way. This is exactly the skill set which programmers need to learn and which the current system doesn’t teach.
+Regular hackathons would make students exercise these skills. The students has to choose a problem to work on, and he has to come up with a solution from scratch instead of being handed starter files and bulleted instructions.
 
 ### Punctuated Hysteria
 
