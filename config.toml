@@ -42,6 +42,13 @@ pygmentsUseClasses = true
     url = "https://tinyletter.com/dwarkesh"
     weight = 20
 
+      [[menu.main]]
+    identifier = "rss"
+    name = "rss"
+    title = "rss"
+    url = "https://dwarkeshpatel.com/index.xml"
+    weight = 20
+
 [permalinks]
   posts = "/:filename/"
   drafts = "/draft/:filename/"
